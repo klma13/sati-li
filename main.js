@@ -1,1 +1,1 @@
-alert("ahoj svete");
+prompt("ahoj svete");

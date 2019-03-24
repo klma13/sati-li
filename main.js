@@ -1,1 +1,1 @@
-document.write("ahoj svete");
+alert("ahoj svete");

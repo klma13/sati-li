@@ -5,3 +5,4 @@ document.getElementById('demo').innerHTML += 'li';
 }
 }		    
 document.getElementById("btn").addEventListener("click", napsatLi); 
+napsatLi()
